@@ -11,3 +11,24 @@ https://openaccess.thecvf.com/content/ICCV2025/papers/Costanzino_SiM3D_Single-in
 
 Real-IAD D³: A Real-World 2D/Pseudo-3D/3D Dataset for Industrial Anomaly Detection: 
 https://arxiv.org/pdf/2504.14221
+
+Multimodal Industrial Anomaly Detection via Hybrid Fusion:
+https://arxiv.org/pdf/2303.00601
+
+### CL-related
+
+Bootstrap Your Own Classifier: Your Pretrained Vision Models are Secretly Strong Continual Learners (cvpr26)
+
+Learning from Itself: Mining Internal Knowledge from Vision Language Models for Continual Learning: (cvpr26)
+
+One-for-More: Continual Diffusion Model for Anomaly Detection: (cvpr26)
+
+CHEEM: Continual Learning by Reuse, New, Adapt and Skip A Hierarchical Exploration-Exploitation Approach: (cvpr26)
+
+PACT: Phase-Like Transition Constraints in Adapter-Based Continual Learning of Vision-Language Models: (cvpr26)
+
+Spectral Mixture-of-Experts for Continual Learning: (cvpr26)
+
+### 工业foundation models
+
+Foundation Models for the Process Industry: Challenges and Opportunities: https://www.sciencedirect.com/science/article/pii/S2095809925001766
