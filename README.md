@@ -29,6 +29,15 @@ PACT: Phase-Like Transition Constraints in Adapter-Based Continual Learning of V
 
 Spectral Mixture-of-Experts for Continual Learning: (cvpr26)
 
-### 工业foundation models
+### 工业foundation models/LLMs
 
 Foundation Models for the Process Industry: Challenges and Opportunities: https://www.sciencedirect.com/science/article/pii/S2095809925001766
+
+AAD-LLM: Adaptive Anomaly Detection Using Large Language Models: https://arxiv.org/pdf/2411.00914
+
+
+### Anomaly Detection Foundation Models
+https://github.com/mala-lab/Awesome-Anomaly-Detection-Foundation-Models
+
+Agentic and LLM-Based Multimodal Anomaly Detection: Architectures, Challenges, and Prospects: https://www.mdpi.com/1424-8220/26/8/2330
+
